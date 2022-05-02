@@ -12,4 +12,4 @@ This is the README created in light of an exerice aiming to teach us how to make
 
 * Jilani
 
-Bonjour, ceci est un test !
+Bonjour, ceci est un re-re-test !
