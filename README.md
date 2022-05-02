@@ -6,7 +6,7 @@ This is the README created in light of an exerice aiming to teach us how to make
 
 * Arianna 
 
-* Arnold
+* Arnold : The one and only, for you pleasure, you already know.
 
 * Clement 
 
