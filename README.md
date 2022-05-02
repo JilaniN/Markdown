@@ -12,4 +12,8 @@ This is the README created in light of an exerice aiming to teach us how to make
 
 * Jilani
 
-Bonjour, ceci est un re-re-test !
+<<<<<<< HEAD
+
+=======
+Bonjour, ceci est un re-test !
+>>>>>>> a52a91e4ab60cb21a2867f3901a82325cec87834
